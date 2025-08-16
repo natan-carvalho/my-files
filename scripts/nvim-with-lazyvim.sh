@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Install Tools
+apt update && apt install build-essential -y
+
+
 cd ~/
 
 # Download latest version
