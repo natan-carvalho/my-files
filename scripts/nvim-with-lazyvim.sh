@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install Tools
-apt update && apt install build-essential -y
+apt update && apt install build-essential unzip -y
 
 cd ~/
 
